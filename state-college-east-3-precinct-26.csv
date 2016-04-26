@@ -1,4 +1,6 @@
 year,month,type,cast,registered,presidential,gubernatorial,senate
+2015,11,general,47,1197,FALSE,FALSE,FALSE
+2015,05,primary,23,838,FALSE,FALSE,FALSE
 2014,11,general,169,3430,FALSE,TRUE,FALSE
 2014,05,primary,76,3440,FALSE,TRUE,FALSE
 2013,11,general,75,3473,FALSE,0,FALSE
